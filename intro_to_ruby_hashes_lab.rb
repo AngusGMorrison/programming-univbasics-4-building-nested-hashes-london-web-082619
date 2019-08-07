@@ -22,8 +22,7 @@ def monopoly_with_third_tier
     reading_railroad: {},
     pensylvania_railroad: {},
     b_and_o_railroad: {},
-    shortline_railroad: {},
-    
+    shortline_railroad: {}
   }
   
   third_tier
